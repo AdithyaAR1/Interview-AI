@@ -24,10 +24,8 @@ An AI-powered interview trainer using **Whisper** for audio transcription and **
 ---
 
 ## Local Setup
-
-
-1. Clone the repo:
 ```bash
+1. Clone the repo:
 git clone https://github.com/yourusername/interview-ai.git
 cd interview-ai
 
@@ -50,3 +48,7 @@ GROQ_API_KEY=your_real_api_key_here
 
 5. Run the app:
 python app.py
+```
+## Live Demo
+Try the app here:  
+https://huggingface.co/spaces/AdithyaAR/Interview-AI
