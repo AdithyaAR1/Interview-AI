@@ -1,0 +1,6 @@
+gradio==6.3.0
+faster-whisper==0.6.0
+groq==0.1.9
+torch==2.3.0
+soundfile==0.12.1
+python-dotenv==1.0.1
