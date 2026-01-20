@@ -25,6 +25,7 @@ An AI-powered interview trainer using **Whisper** for audio transcription and **
 
 ## Local Setup
 
+
 1. Clone the repo:
 ```bash
 git clone https://github.com/yourusername/interview-ai.git
