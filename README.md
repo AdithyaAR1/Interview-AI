@@ -25,12 +25,12 @@ An AI-powered interview trainer using **Whisper** for audio transcription and **
 
 ## Local Setup
 
-## 1. Clone the repo:
+1. Clone the repo:
 ```bash
 git clone https://github.com/yourusername/interview-ai.git
 cd interview-ai
 
-## 2. Create a virtual environment:
+2. Create a virtual environment:
 python -m venv venv
 # Activate:
 # Linux / Mac
@@ -38,14 +38,14 @@ source venv/bin/activate
 # Windows
 venv\Scripts\activate
 
-## 3. Install dependencies:
+3. Install dependencies:
 pip install -r requirements.txt
 
-## 4. Add your Groq API key:
+4. Add your Groq API key:
 # Copy the sample.env file to .env
 cp sample.env .env
 Then open .env and replace the placeholder with your real API key:
 GROQ_API_KEY=your_real_api_key_here
 
-## 5. Run the app:
+5. Run the app:
 python app.py
